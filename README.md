@@ -4,7 +4,7 @@
 
 Start-CPUBurn is a tool used to burn CPU cores.  This was originally used to test the dynamic queue scheduling algorithm that updates the RSSv2 indirection table for Dynamic VMMQ which was first shipped in Windows Server 2019.
 
-### :star: More by the Microsoft Core Networking team
+## :star: More by the Microsoft Core Networking team
 
 Find more from the Core Networking team using the [MSFTNet](https://github.com/topics/msftnet) topic
 
