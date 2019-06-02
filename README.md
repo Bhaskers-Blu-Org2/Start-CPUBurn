@@ -1,7 +1,7 @@
 ##### :star: More by the Microsoft Core Networking team
 Find more from us using the [MSFTNet](https://github.com/topics/msftnet) topic
 
-[![Build status](https://ci.appveyor.com/api/projects/status/e5u89mrsdijn09he?svg=true)](https://ci.appveyor.com/project/dcuomo/start-cpuburn)
+[![Build status](https://ci.appveyor.com/api/projects/status/ya71jrmcb651gqhh?svg=true)](https://ci.appveyor.com/project/MSFTCoreNet/start-cpuburn)
 
 # Description
 
