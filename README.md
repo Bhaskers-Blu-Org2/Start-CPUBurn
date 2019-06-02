@@ -1,16 +1,23 @@
-##### :star: More by the Microsoft Core Networking team
-Find more from us using the [MSFTNet](https://github.com/topics/msftnet) topic
-
 [![Build status](https://ci.appveyor.com/api/projects/status/ya71jrmcb651gqhh?svg=true)](https://ci.appveyor.com/project/MSFTCoreNet/start-cpuburn)
 
 # Description
 
 Start-CPUBurn is a tool used to burn CPU cores.  This was originally used to test the dynamic queue scheduling algorithm that updates the RSSv2 indirection table for Dynamic VMMQ which was first shipped in Windows Server 2019.
 
+### :star: More by the Microsoft Core Networking team
+
+Find more from the Core Networking team using the [MSFTNet](https://github.com/topics/msftnet) topic
+
 # Installation
 
-This module can be installed using the following command:
+This module is part of MSFT.Network.Tools which can be installed using this command:
+```Install-Module MSFT.Network.Tools```
+
+Or install this module individually using this command:
 ```Install-Module Start-CPUBurn```
+
+To see all modules from the Microsoft Core Networking team, please use:
+```Find-Module -Tag MSFTNet```
 
 # Contributing
 
